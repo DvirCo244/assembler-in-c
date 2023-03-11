@@ -1,0 +1,13 @@
+{
+  "files.associations": {
+    "preassembler.h": "c",
+    "symboltable.h": "c",
+    "constants.h": "c",
+    "first_pass.h": "c",
+    "stdio.h": "c",
+    "ctype.h": "c",
+    "struct.h": "c",
+    "tables.h": "c",
+    "main.h": "c"
+  }
+}
